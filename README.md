@@ -1,7 +1,6 @@
 PRC training
 
 The repository contains Jupyter Notebooks for the training 'ManGO - Python client' at KU Leuven.  
-This repository is work in progress, more training materials will be added later.  
 
 # How to install
 
